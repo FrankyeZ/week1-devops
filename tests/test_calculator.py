@@ -1,3 +1,3 @@
 
 def test_div():
-    assert div(2, 1) == 2
+    assert div(2, 2) == 1
